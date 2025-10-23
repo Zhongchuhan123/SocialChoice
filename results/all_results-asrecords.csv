@@ -1,0 +1,197 @@
+groupId,group_size,num_items,strategy,gold_label,phi
+751,4,50,LMS,['item_21'],['item_41']
+753,4,50,APP,['item_17'],"['Item_5', 'Item_8', 'Item_16', 'Item_30', 'Item_34', 'Item_44', 'Item_45']"
+754,8,50,ADD,['item_1'],"['[""item_40""]']"
+755,4,50,ADD,['item_18'],"['[""item_5""]']"
+756,2,50,ADD,"['item_13', 'item_22', 'item_29']",['item_13']
+758,2,50,ADD,"['item_17', 'item_18']",['item_50']
+759,8,50,ADD,['item_30'],['item_28']
+761,4,50,MPL,"['item_1', 'item_12', 'item_15', 'item_18', 'item_2', 'item_20', 'item_21', 'item_24', 'item_30', 'item_33', 'item_36', 'item_40', 'item_41', 'item_45', 'item_48', 'item_50', 'item_7', 'item_9']","['[""item_9"", ""item_15"", ""item_18"", ""item_20"", ""item_33"", ""item_41"", ""item_45""]']"
+763,8,50,ADD,"['item_12', 'item_15']","['item_15', 'item_21', 'item_41', 'item_44']"
+765,8,50,MPL,"['item_10', 'item_11', 'item_12', 'item_13', 'item_14', 'item_15', 'item_16', 'item_17', 'item_18', 'item_23', 'item_24', 'item_25', 'item_26', 'item_28', 'item_29', 'item_3', 'item_30', 'item_32', 'item_33', 'item_36', 'item_37', 'item_38', 'item_39', 'item_41', 'item_45', 'item_49', 'item_5', 'item_50', 'item_7']","['[""item_37"", ""item_45""]']"
+766,2,50,LMS,['item_16'],['item_16']
+767,4,50,ADD,"['item_33', 'item_42']","['item_16', 'item_30']"
+768,8,50,APP,"['item_19', 'item_28', 'item_4']","['Item_4', 'Item_6', 'Item_10', 'Item_14', 'Item_18', 'Item_27', 'Item_42']"
+769,4,50,ADD,['item_25'],"['[""item_47""]']"
+770,4,50,MPL,"['item_14', 'item_17', 'item_20', 'item_22', 'item_23', 'item_26', 'item_31', 'item_33', 'item_35', 'item_38', 'item_39', 'item_45', 'item_46', 'item_5', 'item_6', 'item_8']","['item_33', 'item_35', 'item_39', 'item_45', 'item_46']"
+771,2,50,MPL,"['item_27', 'item_29', 'item_3', 'item_37', 'item_39', 'item_4', 'item_43', 'item_44', 'item_5', 'item_6', 'item_9']","['item_3', 'item_4', 'item_5', 'item_6', 'item_9', 'item_37', 'item_39', 'item_43', 'item_44']"
+772,4,50,MPL,"['item_1', 'item_14', 'item_15', 'item_17', 'item_22', 'item_23', 'item_24', 'item_25', 'item_26', 'item_30', 'item_31', 'item_33', 'item_38', 'item_39', 'item_42', 'item_45', 'item_48', 'item_50', 'item_6', 'item_8']","['item_6', 'item_17', 'item_22', 'item_23', 'item_24', 'item_26', 'item_45', 'item_49']"
+773,8,50,APP,"['item_1', 'item_36', 'item_5']","['Item_1', 'Item_2', 'Item_3', 'Item_5', 'Item_9', 'Item_10', 'Item_16', 'Item_18', 'Item_36', 'Item_41', 'Item_47', 'Item_48', 'Item_50']"
+774,2,50,ADD,['item_30'],"['item_12', 'item_39']"
+775,2,50,ADD,"['item_18', 'item_20', 'item_26']","['item_18', 'item_20']"
+776,2,50,ADD,['item_15'],['item_15']
+777,2,50,ADD,"['item_10', 'item_6']",['item_6']
+779,8,50,ADD,['item_3'],['item_3']
+780,4,50,APP,"['item_10', 'item_9']","['Item_4', 'Item_16', 'Item_41', 'Item_44']"
+781,2,50,LMS,['item_15'],"['item_4', 'item_14', 'item_24', 'item_34', 'item_44']"
+783,4,50,MPL,"['item_11', 'item_13', 'item_14', 'item_2', 'item_23', 'item_27', 'item_28', 'item_3', 'item_33', 'item_36', 'item_37', 'item_40', 'item_44', 'item_6', 'item_7', 'item_9']","['[""item_9"", ""item_23"", ""item_28""]']"
+784,4,50,LMS,['item_46'],"['item_46', 'item_50']"
+785,4,50,LMS,"['item_29', 'item_45']",['item_45']
+786,8,50,LMS,"['item_21', 'item_31']","['item_26', 'item_34', 'item_43']"
+787,8,50,APP,"['item_15', 'item_24', 'item_34']","['Item_1', 'Item_2', 'Item_4', 'Item_5', 'Item_15', 'Item_18', 'Item_25', 'Item_28', 'Item_30', 'Item_32', 'Item_34', 'Item_39', 'Item_40', 'Item_45', 'Item_48', 'Item_50']"
+788,8,50,ADD,['item_46'],['item_24']
+790,4,50,LMS,"['item_12', 'item_8']","['item_4', 'item_8', 'item_12', 'item_14', 'item_15', 'item_33']"
+791,2,50,ADD,['item_30'],['item_37']
+792,4,50,ADD,['item_40'],"['[""item_6"", ""item_33"", ""item_40""]']"
+793,2,50,APP,"['item_1', 'item_11', 'item_13', 'item_15', 'item_19', 'item_20', 'item_29', 'item_31', 'item_38', 'item_40', 'item_41', 'item_6']","['item_1', 'item_6', 'item_38']"
+794,8,50,MPL,"['item_1', 'item_10', 'item_11', 'item_17', 'item_2', 'item_20', 'item_22', 'item_24', 'item_25', 'item_26', 'item_27', 'item_28', 'item_30', 'item_33', 'item_34', 'item_39', 'item_4', 'item_41', 'item_42', 'item_43', 'item_45', 'item_46', 'item_47', 'item_48', 'item_50', 'item_7', 'item_9']","['[""item_34"", ""item_42"", ""item_46""]']"
+796,8,50,ADD,['item_18'],['item_41']
+797,4,50,ADD,['item_16'],['item_45']
+798,2,50,MPL,"['item_12', 'item_15', 'item_2', 'item_22', 'item_4', 'item_44', 'item_45', 'item_46', 'item_47', 'item_9']","['item_2', 'item_4', 'item_9', 'item_11', 'item_12', 'item_15', 'item_22', 'item_46', 'item_47']"
+799,4,50,ADD,['item_43'],"['[""item_4"", ""item_43"", ""item_46""]']"
+800,2,50,MPL,"['item_12', 'item_22', 'item_27', 'item_31', 'item_32', 'item_43', 'item_48', 'item_50', 'item_6', 'item_7']","['item_6', 'item_7', 'item_12', 'item_22', 'item_27', 'item_31', 'item_32', 'item_48']"
+801,4,50,ADD,['item_47'],"['[""item_42""]']"
+802,2,50,APP,"['item_10', 'item_19', 'item_3', 'item_30', 'item_36', 'item_7']","['item_3', 'item_5', 'item_10', 'item_39', 'item_46']"
+804,4,50,APP,"['item_38', 'item_44']","['Item_2', 'Item_14', 'Item_38', 'Item_40', 'Item_46', 'Item_48']"
+805,8,50,ADD,['item_48'],"['[""item_5""]']"
+806,8,50,MPL,"['item_1', 'item_11', 'item_12', 'item_13', 'item_14', 'item_15', 'item_16', 'item_17', 'item_19', 'item_20', 'item_24', 'item_25', 'item_3', 'item_31', 'item_33', 'item_35', 'item_37', 'item_38', 'item_4', 'item_41', 'item_42', 'item_43', 'item_44', 'item_46', 'item_47', 'item_48', 'item_49', 'item_50', 'item_8', 'item_9']","['[""item_33"", ""item_41"", ""item_43"", ""item_47"", ""item_48"", ""item_49"", ""item_50""]']"
+807,4,50,ADD,['item_7'],"['[""item_7"", ""item_27""]']"
+808,8,50,APP,"['item_18', 'item_33']","['Item_10', 'Item_14', 'Item_17', 'Item_18', 'Item_26', 'Item_43']"
+809,4,50,ADD,['item_10'],"['[""item_23""]']"
+810,4,50,MPL,"['item_18', 'item_20', 'item_22', 'item_30', 'item_32', 'item_35', 'item_36', 'item_37', 'item_39', 'item_41', 'item_42', 'item_44', 'item_47', 'item_5', 'item_7', 'item_8']","['item_32', 'item_41', 'item_42', 'item_44', 'item_47']"
+811,2,50,LMS,['item_14'],"['item_15', 'item_28', 'item_44']"
+812,2,50,ADD,['item_20'],['item_38']
+813,2,50,LMS,"['item_21', 'item_30']",['item_47']
+814,2,50,MPL,"['item_14', 'item_26', 'item_27', 'item_29', 'item_3', 'item_35', 'item_38', 'item_40', 'item_41', 'item_45', 'item_50']","['item_3', 'item_22', 'item_32', 'item_38', 'item_40', 'item_50']"
+815,4,50,ADD,"['item_32', 'item_35']","['[""item_19""]']"
+816,4,50,ADD,['item_1'],"['[""item_50""]']"
+818,2,50,ADD,['item_23'],['item_23']
+821,8,50,APP,['item_18'],"['Item_2', 'Item_4', 'Item_17', 'Item_24', 'Item_32', 'Item_40', 'Item_43', 'Item_46', 'Item_49']"
+822,2,50,LMS,"['item_33', 'item_41', 'item_46']",['item_4']
+823,2,50,LMS,"['item_25', 'item_49']",['item_2']
+825,2,50,ADD,"['item_2', 'item_28']","['item_27', 'item_36', 'item_44', 'item_50']"
+828,4,50,MPL,"['item_1', 'item_14', 'item_15', 'item_16', 'item_19', 'item_22', 'item_25', 'item_26', 'item_33', 'item_35', 'item_39', 'item_4', 'item_40', 'item_41', 'item_45', 'item_48', 'item_5', 'item_50', 'item_7']","['item_33', 'item_39', 'item_40', 'item_41', 'item_50']"
+829,2,50,ADD,['item_28'],['item_39']
+830,4,50,MPL,"['item_10', 'item_11', 'item_14', 'item_15', 'item_16', 'item_18', 'item_2', 'item_20', 'item_24', 'item_27', 'item_29', 'item_32', 'item_34', 'item_35', 'item_38', 'item_39', 'item_4', 'item_40', 'item_45', 'item_46', 'item_47', 'item_49', 'item_7', 'item_9']","['[""item_2"", ""item_9"", ""item_18"", ""item_24"", ""item_29"", ""item_35"", ""item_36"", ""item_49""]']"
+831,4,50,MPL,"['item_1', 'item_10', 'item_11', 'item_13', 'item_14', 'item_18', 'item_20', 'item_21', 'item_22', 'item_31', 'item_32', 'item_33', 'item_39', 'item_40', 'item_42', 'item_45', 'item_49', 'item_5', 'item_6']","['[""item_6"", ""item_9"", ""item_12"", ""item_15"", ""item_18"", ""item_21"", ""item_24"", ""item_27"", ""item_30"", ""item_33"", ""item_39"", ""item_42"", ""item_31""]']"
+832,8,50,LMS,"['item_23', 'item_50', 'item_9']","['[""item_22"", ""item_29"", ""item_32"", ""item_48""]']"
+834,8,50,MPL,"['item_10', 'item_11', 'item_12', 'item_13', 'item_14', 'item_15', 'item_17', 'item_2', 'item_21', 'item_24', 'item_27', 'item_28', 'item_3', 'item_31', 'item_37', 'item_38', 'item_4', 'item_40', 'item_45', 'item_46', 'item_47', 'item_5', 'item_50', 'item_7', 'item_8']","['[""item_37"", ""item_10"", ""item_11"", ""item_13"", ""item_28""]']"
+835,8,50,MPL,"['item_1', 'item_10', 'item_11', 'item_14', 'item_18', 'item_20', 'item_21', 'item_22', 'item_25', 'item_26', 'item_29', 'item_30', 'item_34', 'item_35', 'item_38', 'item_4', 'item_41', 'item_42', 'item_43', 'item_45', 'item_46', 'item_6', 'item_7', 'item_8', 'item_9']","['[""item_45"", ""item_46""]']"
+836,4,50,ADD,['item_19'],"['item_8', 'item_35']"
+838,4,50,MPL,"['item_10', 'item_13', 'item_14', 'item_19', 'item_21', 'item_39', 'item_40', 'item_43', 'item_48', 'item_6']","['[""item_43""]']"
+839,8,50,APP,"['item_10', 'item_17', 'item_18', 'item_19', 'item_24', 'item_26', 'item_31', 'item_43', 'item_48']","['Item_12', 'Item_22', 'Item_32', 'Item_40', 'Item_48', 'Item_49']"
+840,2,50,MPL,"['item_10', 'item_15', 'item_16', 'item_17', 'item_24', 'item_3', 'item_34', 'item_36', 'item_42', 'item_45', 'item_6']","['item_3', 'item_6', 'item_10', 'item_15', 'item_17', 'item_24', 'item_34', 'item_36', 'item_45']"
+842,2,50,LMS,['item_37'],"['item_41', 'item_42']"
+847,2,50,LMS,"['item_1', 'item_19']","['item_1', 'item_40']"
+848,4,50,ADD,"['item_12', 'item_28']","['[""item_4""]']"
+849,4,50,MPL,"['item_1', 'item_11', 'item_12', 'item_13', 'item_16', 'item_2', 'item_35', 'item_38', 'item_43', 'item_44']","['[""item_43"", ""item_13""]']"
+850,8,50,APP,['item_42'],"['Item_1', 'Item_7', 'Item_8', 'Item_11', 'Item_16', 'Item_27', 'Item_30', 'Item_34', 'Item_37', 'Item_41', 'Item_42']"
+851,8,50,APP,"['item_31', 'item_5']","['Item_3', 'Item_6', 'Item_29', 'Item_32', 'Item_36', 'Item_40', 'Item_50']"
+852,4,50,MPL,"['item_11', 'item_13', 'item_14', 'item_15', 'item_17', 'item_19', 'item_20', 'item_22', 'item_28', 'item_29', 'item_30', 'item_34', 'item_42', 'item_44', 'item_48', 'item_8']","['[""item_42""]']"
+853,4,50,APP,"['item_17', 'item_18', 'item_23', 'item_25', 'item_37', 'item_4', 'item_47', 'item_50']","['Item_1', 'Item_4', 'Item_6', 'Item_11', 'Item_47']"
+855,8,50,ADD,['item_26'],['item_5']
+856,2,50,LMS,['item_36'],['item_3']
+858,4,50,MPL,"['item_11', 'item_14', 'item_16', 'item_17', 'item_18', 'item_19', 'item_2', 'item_21', 'item_22', 'item_25', 'item_28', 'item_3', 'item_33', 'item_34', 'item_35', 'item_36', 'item_37', 'item_4', 'item_40', 'item_41', 'item_42', 'item_44', 'item_46', 'item_50', 'item_8']","['[""item_35"", ""item_40"", ""item_41"", ""item_33"", ""item_37"", ""item_42""]']"
+859,4,50,ADD,['item_47'],['item_47']
+860,4,50,ADD,['item_33'],"['item_15', 'item_24', 'item_35']"
+862,4,50,ADD,['item_29'],"['item_8', 'item_33']"
+863,8,50,ADD,['item_46'],"['[""item_48""]']"
+864,4,50,ADD,['item_50'],"['item_6', 'item_32', 'item_38', 'item_50']"
+865,2,50,ADD,"['item_15', 'item_48']",['item_48']
+866,2,50,MPL,"['item_13', 'item_35', 'item_38', 'item_40', 'item_46', 'item_7', 'item_8']",['item_35']
+867,2,50,MPL,"['item_12', 'item_17', 'item_18', 'item_19', 'item_20', 'item_24', 'item_28', 'item_3', 'item_35', 'item_38', 'item_42', 'item_43', 'item_5', 'item_9']","['item_3', 'item_20']"
+868,2,50,APP,"['item_25', 'item_3', 'item_30', 'item_31']","['item_3', 'item_37', 'item_47', 'item_48']"
+870,8,50,APP,"['item_18', 'item_3', 'item_33', 'item_35', 'item_37', 'item_38', 'item_40', 'item_41']","['item_17', 'item_21', 'item_23', 'item_33']"
+871,4,50,ADD,['item_31'],"['[""item_8"", ""item_16"", ""item_29"", ""item_31""]']"
+872,2,50,ADD,['item_41'],['item_16']
+873,4,50,MPL,"['item_1', 'item_12', 'item_15', 'item_16', 'item_18', 'item_2', 'item_21', 'item_24', 'item_26', 'item_28', 'item_33', 'item_36', 'item_37', 'item_40', 'item_45', 'item_46', 'item_6', 'item_9']","['item_9', 'item_16']"
+876,2,50,MPL,"['item_10', 'item_12', 'item_13', 'item_23', 'item_24', 'item_26', 'item_31', 'item_32', 'item_39', 'item_47']","['item_10', 'item_12', 'item_13', 'item_23', 'item_24', 'item_26', 'item_32', 'item_39']"
+877,4,50,MPL,"['item_11', 'item_13', 'item_15', 'item_19', 'item_2', 'item_23', 'item_31', 'item_32', 'item_38', 'item_4', 'item_41', 'item_44', 'item_45', 'item_48']","['item_2', 'item_8', 'item_11', 'item_15', 'item_19', 'item_23', 'item_27', 'item_38', 'item_41']"
+878,8,50,APP,"['item_44', 'item_5', 'item_50']","['Item_6', 'Item_9', 'Item_16', 'Item_37', 'Item_38', 'Item_39', 'Item_44', 'Item_47', 'Item_48', 'Item_50']"
+879,8,50,APP,['item_11'],"['item_6', 'item_7', 'item_11', 'item_14', 'item_16', 'item_23', 'item_27', 'item_34', 'item_36', 'item_39', 'item_44', 'item_46']"
+880,8,50,ADD,"['item_17', 'item_9']","['[""item_21"", ""item_35""]']"
+881,8,50,ADD,['item_11'],"['[""item_44""]']"
+882,8,50,APP,['item_29'],"['item_2', 'item_4', 'item_6', 'item_11', 'item_12', 'item_16', 'item_18', 'item_28', 'item_29', 'item_33', 'item_40', 'item_45', 'item_50']"
+883,4,50,ADD,['item_17'],"['[""item_40""]']"
+884,8,50,APP,"['item_20', 'item_32', 'item_5']","['Item_4', 'Item_5', 'Item_9', 'Item_15', 'Item_23', 'Item_24', 'Item_43', 'Item_44']"
+885,4,50,LMS,"['item_41', 'item_44']","['[""item_36"", ""item_37"", ""item_41""]']"
+886,4,50,LMS,['item_10'],['item_47']
+887,4,50,LMS,['item_49'],"['[""item_37"", ""item_40"", ""item_50""]']"
+888,4,50,APP,"['item_12', 'item_25', 'item_30', 'item_38', 'item_46']","['Item_12', 'Item_21']"
+889,8,50,APP,['item_30'],"['Item_1', 'Item_2', 'Item_25', 'Item_34', 'Item_35', 'Item_44', 'Item_45', 'Item_49', 'Item_50']"
+891,4,50,MPL,"['item_12', 'item_14', 'item_21', 'item_22', 'item_25', 'item_27', 'item_28', 'item_3', 'item_32', 'item_34', 'item_38', 'item_39', 'item_41', 'item_42', 'item_43', 'item_44', 'item_5', 'item_50', 'item_6', 'item_7', 'item_8']","['[""item_32"", ""item_42"", ""item_44"", ""item_50""]']"
+892,4,50,APP,"['item_17', 'item_28', 'item_44']","['Item_1', 'Item_4', 'Item_13', 'Item_17', 'Item_42', 'Item_44']"
+893,8,50,MPL,"['item_1', 'item_10', 'item_15', 'item_16', 'item_17', 'item_18', 'item_2', 'item_21', 'item_22', 'item_24', 'item_25', 'item_26', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_37', 'item_38', 'item_4', 'item_41', 'item_43', 'item_44', 'item_46', 'item_47', 'item_48', 'item_49', 'item_5']","['[""item_41"", ""item_43"", ""item_47"", ""item_49""]']"
+894,8,50,MPL,"['item_1', 'item_10', 'item_11', 'item_12', 'item_14', 'item_15', 'item_16', 'item_17', 'item_18', 'item_19', 'item_20', 'item_24', 'item_25', 'item_28', 'item_29', 'item_3', 'item_30', 'item_32', 'item_33', 'item_36', 'item_38', 'item_4', 'item_40', 'item_43', 'item_47', 'item_48', 'item_50', 'item_6', 'item_7', 'item_9']","['item_38', 'item_50']"
+895,8,50,LMS,"['item_16', 'item_26', 'item_7']","['item_24', 'item_38']"
+896,2,50,APP,"['item_2', 'item_21', 'item_33', 'item_34', 'item_39', 'item_43', 'item_9']","['item_2', 'item_9', 'item_39', 'item_43']"
+899,4,50,ADD,['item_2'],"['[""item_6""]']"
+900,2,50,LMS,['item_49'],['item_42']
+903,4,50,APP,"['item_12', 'item_48', 'item_50']","['Item_1', 'Item_4', 'Item_5', 'Item_17', 'Item_27', 'Item_45', 'Item_48']"
+904,2,50,MPL,"['item_13', 'item_15', 'item_18', 'item_19', 'item_2', 'item_23', 'item_25', 'item_26', 'item_30', 'item_35', 'item_37', 'item_38', 'item_46', 'item_47', 'item_49', 'item_5']","['Item_2', 'Item_5', 'Item_13', 'Item_15', 'Item_18', 'Item_19', 'Item_23', 'Item_24', 'Item_25', 'Item_26', 'Item_35', 'Item_37', 'Item_38', 'Item_46', 'Item_47', 'Item_49']"
+905,8,50,LMS,['item_20'],"['[""item_6"", ""item_15"", ""item_22"", ""item_33"", ""item_34"", ""item_47"", ""item_49"", ""item_50""]']"
+906,4,50,ADD,['item_46'],"['[""item_17""]']"
+907,8,50,MPL,"['item_12', 'item_16', 'item_18', 'item_19', 'item_2', 'item_20', 'item_21', 'item_22', 'item_23', 'item_29', 'item_3', 'item_30', 'item_31', 'item_33', 'item_34', 'item_35', 'item_36', 'item_38', 'item_39', 'item_4', 'item_40', 'item_41', 'item_43', 'item_44', 'item_45', 'item_47', 'item_48', 'item_49', 'item_5', 'item_50', 'item_6', 'item_7', 'item_8']","['[""item_8"", ""item_18"", ""item_21"", ""item_33"", ""item_35"", ""item_39"", ""item_40"", ""item_41"", ""item_44"", ""item_49""]']"
+908,4,50,MPL,"['item_13', 'item_16', 'item_17', 'item_18', 'item_19', 'item_22', 'item_23', 'item_24', 'item_29', 'item_31', 'item_32', 'item_38', 'item_42', 'item_44', 'item_45', 'item_46', 'item_47', 'item_48', 'item_5', 'item_7', 'item_8']","['[""item_44"", ""item_46"", ""item_8"", ""item_13"", ""item_23""]']"
+909,4,50,MPL,"['item_1', 'item_19', 'item_20', 'item_3', 'item_33', 'item_34', 'item_35', 'item_36', 'item_38', 'item_39', 'item_40', 'item_42', 'item_43', 'item_46', 'item_47', 'item_49', 'item_9']","['[""item_33"", ""item_35"", ""item_39"", ""item_40"", ""item_46"", ""item_49""]']"
+910,8,50,ADD,['item_49'],"['[""item_17""]']"
+911,8,50,ADD,['item_6'],['item_34']
+912,4,50,APP,"['item_23', 'item_44', 'item_48']","['item_8', 'item_14', 'item_16', 'item_17', 'item_19', 'item_23', 'item_25', 'item_41', 'item_42', 'item_48', 'item_49']"
+913,8,50,LMS,['item_20'],['item_39']
+916,4,50,APP,"['item_39', 'item_43']","['item_2', 'item_6', 'item_10', 'item_15', 'item_16', 'item_20', 'item_22', 'item_38', 'item_41', 'item_44', 'item_47', 'item_50']"
+917,8,50,APP,['item_44'],"['Item_1', 'Item_2', 'Item_5', 'Item_15', 'Item_39', 'Item_44', 'Item_50']"
+918,2,50,MPL,"['item_1', 'item_10', 'item_15', 'item_20', 'item_29', 'item_33', 'item_36', 'item_37', 'item_40', 'item_42', 'item_43', 'item_44', 'item_48', 'item_49']","['item_1', 'item_10', 'item_19', 'item_20', 'item_22', 'item_28', 'item_36', 'item_40', 'item_42', 'item_43', 'item_44']"
+919,2,50,ADD,['item_9'],['item_9']
+920,2,50,LMS,['item_9'],['item_3']
+922,4,50,MPL,"['item_11', 'item_12', 'item_16', 'item_17', 'item_21', 'item_28', 'item_29', 'item_32', 'item_33', 'item_34', 'item_38', 'item_39', 'item_4', 'item_42', 'item_47', 'item_49', 'item_50', 'item_7', 'item_8']","['[""item_34"", ""item_49"", ""item_7"", ""item_12"", ""item_16"", ""item_21"", ""item_29""]']"
+923,4,50,APP,"['item_45', 'item_47']","['item_3', 'item_7', 'item_20', 'item_23', 'item_25', 'item_33', 'item_39']"
+924,2,50,ADD,['item_20'],['item_23']
+925,8,50,APP,"['item_11', 'item_27']","['Item_2', 'Item_4', 'Item_5', 'Item_9', 'Item_13', 'Item_15', 'Item_26', 'Item_27', 'Item_39', 'Item_40', 'Item_41', 'Item_42', 'Item_50']"
+926,8,50,ADD,['item_46'],"['[""item_35"", ""item_48""]']"
+928,8,50,LMS,['item_31'],['item_35']
+930,8,50,ADD,['item_8'],['item_17']
+932,4,50,ADD,['item_15'],"['[""item_15"", ""item_42"", ""item_49""]']"
+933,2,50,ADD,"['item_29', 'item_34']",['item_17']
+934,2,50,ADD,"['item_12', 'item_19', 'item_5']","['item_5', 'item_12', 'item_19']"
+936,8,50,ADD,['item_1'],"['[""item_14"", ""item_16"", ""item_43""]']"
+937,8,50,ADD,['item_48'],['item_48']
+938,2,50,APP,"['item_18', 'item_19', 'item_20', 'item_26', 'item_34', 'item_35', 'item_38', 'item_42', 'item_7', 'item_9']","['item_7', 'item_9']"
+941,8,50,ADD,['item_20'],['item_17']
+942,8,50,APP,"['item_28', 'item_37', 'item_6']","['Item_1', 'Item_2', 'Item_4', 'Item_8', 'Item_9', 'Item_17', 'Item_23', 'Item_26', 'Item_27', 'Item_37', 'Item_42']"
+943,2,50,MPL,"['item_10', 'item_19', 'item_22', 'item_28', 'item_32', 'item_33', 'item_35', 'item_43', 'item_46', 'item_8']","['item_8', 'item_10', 'item_19', 'item_22', 'item_28', 'item_32', 'item_33', 'item_43', 'item_46']"
+944,8,50,LMS,"['item_40', 'item_45']","['item_10', 'item_11', 'item_45', 'item_50']"
+945,4,50,ADD,['item_13'],"['[""item_4"", ""item_25""]']"
+946,4,50,APP,"['item_14', 'item_31']","['Item_2', 'Item_4', 'Item_46']"
+947,8,50,ADD,['item_50'],"['[""item_7""]']"
+948,4,50,MPL,"['item_13', 'item_14', 'item_15', 'item_16', 'item_17', 'item_19', 'item_20', 'item_21', 'item_23', 'item_28', 'item_30', 'item_31', 'item_32', 'item_37', 'item_38', 'item_45', 'item_46', 'item_49', 'item_5', 'item_6', 'item_7']","['[item_14, item_20, item_21, item_28, item_30, item_45]']"
+949,8,50,MPL,"['item_11', 'item_13', 'item_15', 'item_16', 'item_18', 'item_19', 'item_20', 'item_22', 'item_25', 'item_26', 'item_27', 'item_28', 'item_29', 'item_3', 'item_31', 'item_40', 'item_41', 'item_42', 'item_43', 'item_48', 'item_49', 'item_50', 'item_6', 'item_7']","['item_7', 'item_13', 'item_25', 'item_40', 'item_42']"
+951,8,50,APP,"['item_26', 'item_36', 'item_46']","['item_1', 'item_5', 'item_8', 'item_11', 'item_12', 'item_16', 'item_18', 'item_22', 'item_26', 'item_27', 'item_28', 'item_31', 'item_32']"
+952,8,50,ADD,['item_2'],"['[""item_23"", ""item_28"", ""item_42""]']"
+953,2,50,ADD,"['item_23', 'item_29', 'item_45']","['item_43', 'item_45', 'item_46']"
+954,4,50,ADD,['item_11'],"['item_9', 'item_16']"
+955,4,50,ADD,['item_17'],"['[""item_8""]']"
+956,8,50,ADD,['item_5'],['item_4']
+957,4,50,ADD,['item_19'],"['[""item_48""]']"
+959,8,50,LMS,['item_19'],"['[""item_5"", ""item_13"", ""item_14"", ""item_29"", ""item_46"", ""item_47"", ""item_49""]']"
+960,2,50,LMS,"['item_17', 'item_27']","['item_17', 'item_24', 'item_31']"
+965,8,50,APP,['item_4'],"['item_2', 'item_12', 'item_14', 'item_15', 'item_33', 'item_39', 'item_40', 'item_42', 'item_45', 'item_48']"
+966,8,50,ADD,['item_30'],"['item_38', 'item_45']"
+967,2,50,LMS,"['item_34', 'item_50']","['item_6', 'item_19', 'item_22', 'item_26', 'item_34']"
+968,2,50,LMS,"['item_12', 'item_35', 'item_46', 'item_48', 'item_50']","['item_7', 'item_17', 'item_25', 'item_33']"
+969,8,50,ADD,['item_47'],['item_26']
+970,2,50,ADD,"['item_4', 'item_47']","['item_4', 'item_14', 'item_37', 'item_48']"
+971,4,50,APP,['item_24'],"['item_1', 'item_2', 'item_6', 'item_15', 'item_23', 'item_32', 'item_33']"
+972,2,50,MPL,"['item_2', 'item_31', 'item_4', 'item_5', 'item_6']","['[""item_2"", ""item_4"", ""item_5"", ""item_6"", ""item_30""]']"
+973,2,50,MPL,"['item_17', 'item_18', 'item_33', 'item_36', 'item_39', 'item_44', 'item_45', 'item_47']",['item_33']
+974,2,50,ADD,"['item_22', 'item_26']","['item_5', 'item_39']"
+975,2,50,ADD,"['item_13', 'item_43']",['item_46']
+976,4,50,MPL,"['item_12', 'item_15', 'item_18', 'item_19', 'item_23', 'item_24', 'item_26', 'item_3', 'item_31', 'item_33', 'item_36', 'item_38', 'item_40', 'item_41', 'item_43', 'item_45', 'item_48', 'item_50']","['item_12', 'item_15', 'item_23', 'item_24', 'item_26', 'item_33', 'item_40']"
+977,8,50,ADD,['item_22'],['item_20']
+978,2,50,MPL,"['item_12', 'item_15', 'item_18', 'item_20', 'item_25', 'item_27', 'item_35', 'item_39', 'item_46', 'item_49', 'item_6', 'item_7']","['item_6', 'item_12', 'item_18', 'item_20', 'item_27', 'item_39']"
+979,2,50,ADD,['item_41'],['item_41']
+980,4,50,APP,"['item_12', 'item_18', 'item_4', 'item_45']","['Item_1', 'Item_4', 'Item_6', 'Item_10', 'Item_17', 'Item_40', 'Item_41', 'Item_44', 'Item_45', 'Item_48', 'Item_50']"
+981,4,50,MPL,"['item_13', 'item_15', 'item_17', 'item_20', 'item_21', 'item_22', 'item_26', 'item_28', 'item_32', 'item_33', 'item_34', 'item_37', 'item_4', 'item_42', 'item_46', 'item_6', 'item_8', 'item_9']","['[""item_34"", ""item_42"", ""item_9"", ""item_32""]']"
+982,4,50,APP,['item_41'],"['Item_1', 'Item_13', 'Item_14', 'Item_16', 'Item_31', 'Item_34', 'Item_41', 'Item_45', 'Item_49']"
+983,2,50,ADD,"['item_2', 'item_28']","['item_2', 'item_50']"
+984,2,50,MPL,"['item_11', 'item_18', 'item_25', 'item_26', 'item_7', 'item_8']","['item_11', 'item_18', 'item_25', 'item_26', 'item_30']"
+985,8,50,ADD,"['item_36', 'item_8']","['[""item_25""]']"
+988,8,50,MPL,"['item_10', 'item_17', 'item_18', 'item_19', 'item_2', 'item_21', 'item_22', 'item_23', 'item_24', 'item_26', 'item_27', 'item_28', 'item_3', 'item_30', 'item_35', 'item_36', 'item_37', 'item_39', 'item_4', 'item_40', 'item_41', 'item_43', 'item_46', 'item_47', 'item_48', 'item_5', 'item_50', 'item_6', 'item_7', 'item_8']","['[""item_37"", ""item_41"", ""item_47"", ""item_48"", ""item_50""]']"
+990,8,50,ADD,['item_44'],"['item_5', 'item_34']"
+991,2,50,LMS,"['item_16', 'item_22', 'item_39']","['item_6', 'item_48']"
+992,2,50,MPL,"['item_13', 'item_14', 'item_20', 'item_21', 'item_27', 'item_30', 'item_37', 'item_40', 'item_41', 'item_43', 'item_6']","['item_6', 'item_13', 'item_21', 'item_37']"
+993,4,50,ADD,['item_46'],"['[""item_46""]']"
+994,4,50,ADD,['item_32'],"['[""item_17"", ""item_24"", ""item_37""]']"
+995,2,50,APP,"['item_1', 'item_14', 'item_15', 'item_29', 'item_40', 'item_44', 'item_46', 'item_49', 'item_9']","['item_1', 'item_9']"
+996,4,50,ADD,['item_49'],"['item_16', 'item_36']"
+998,2,50,ADD,['item_28'],"['item_45', 'item_47']"
+999,4,50,APP,['item_31'],"['Item_1', 'Item_4', 'Item_16', 'Item_31', 'Item_35', 'Item_45']"
